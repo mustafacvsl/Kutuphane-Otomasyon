@@ -1,0 +1,17 @@
+C:\Users\cavus\source\repos\library_otomation2\library_otomation2\bin\Debug\library_otomation2.exe.config
+C:\Users\cavus\source\repos\library_otomation2\library_otomation2\bin\Debug\library_otomation2.exe
+C:\Users\cavus\source\repos\library_otomation2\library_otomation2\bin\Debug\library_otomation2.pdb
+C:\Users\cavus\source\repos\library_otomation2\library_otomation2\obj\Debug\library_otomation2.csproj.AssemblyReference.cache
+C:\Users\cavus\source\repos\library_otomation2\library_otomation2\obj\Debug\library_otomation2.Form1.resources
+C:\Users\cavus\source\repos\library_otomation2\library_otomation2\obj\Debug\library_otomation2.Properties.Resources.resources
+C:\Users\cavus\source\repos\library_otomation2\library_otomation2\obj\Debug\library_otomation2.csproj.GenerateResource.cache
+C:\Users\cavus\source\repos\library_otomation2\library_otomation2\obj\Debug\library_otomation2.csproj.CoreCompileInputs.cache
+C:\Users\cavus\source\repos\library_otomation2\library_otomation2\obj\Debug\library_otomation2.exe
+C:\Users\cavus\source\repos\library_otomation2\library_otomation2\obj\Debug\library_otomation2.pdb
+C:\Users\cavus\source\repos\library_otomation2\library_otomation2\obj\Debug\library_otomation2.Form2.resources
+C:\Users\cavus\source\repos\library_otomation2\library_otomation2\obj\Debug\library_otomation2.uyeEkleForm.resources
+C:\Users\cavus\source\repos\library_otomation2\library_otomation2\obj\Debug\library_otomation2.FormListele.resources
+C:\Users\cavus\source\repos\library_otomation2\library_otomation2\obj\Debug\library_otomation2.Form3Sil.resources
+C:\Users\cavus\source\repos\library_otomation2\library_otomation2\obj\Debug\library_otomation2.FormBook.resources
+C:\Users\cavus\source\repos\library_otomation2\library_otomation2\obj\Debug\library_otomation2.Form3add.resources
+C:\Users\cavus\source\repos\library_otomation2\library_otomation2\obj\Debug\library_otomation2.Form3dlt.resources
